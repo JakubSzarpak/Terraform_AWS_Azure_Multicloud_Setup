@@ -1,2 +1,7 @@
 # Terraform AWS-Azure mutlicloud setup
-Small project with an objective to set up a few objects in aws using terraform and aws cli
+
+Project aimed at creating simple site-to-site VPC to VNet connection between Azure and AWS utilizing BGP and IPsec for safe data transfer.
+
+
+
+
