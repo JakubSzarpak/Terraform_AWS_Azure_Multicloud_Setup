@@ -11,5 +11,5 @@ Take it as my sandbox to learn terraform + terragrunt later on, while experiment
 
 
 
-<svg>![image](https://github.com/user-attachments/assets/b59e7d7b-a01e-4819-8f28-685d300e4132)</svg>
+<img src="https://github.com/user-attachments/assets/b59e7d7b-a01e-4819-8f28-685d300e4132.svg" alt="terraform" width="50" height="50" style="margin-right: 8px;"/>
 
