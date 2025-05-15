@@ -18,3 +18,11 @@ Take it as my sandbox to learn terraform + terragrunt later on, while experiment
 </p>
 
 <br>
+
+
+## Topology Overview
+
+Below is the network topology for our AWS-Azure Site-to-Site VPN setup:
+
+![Topology Overview](Topology_overview_update_1.png)
+
