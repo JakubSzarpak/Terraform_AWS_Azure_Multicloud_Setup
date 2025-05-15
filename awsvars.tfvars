@@ -23,7 +23,7 @@ apipa_tunnel2_cidr = ""
 
 apipa_tunnel3_cidr = ""
 
-#### PSK keys for IKEZEv2 connection initiation ####
+#### PSK keys for IKEv2 connection initiation ####
 
 psk0 = ""
 
