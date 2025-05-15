@@ -1,6 +1,6 @@
 # Terraform AWS-Azure mutlicloud setup
 
-Project aimed at creating simple site-to-site VPC to VNet connection between Azure and AWS utilizing BGP and IPsec for safe data transfer.
+<strong>Project aimed at creating simple site-to-site VPC to VNet connection between Azure and AWS utilizing BGP and IPsec for safe data transfer.</strong>
 <br><br>
 The topology below is a starter topology for further experiments such as shared multicloud storage, pipelines, terraform provisioning. 
 This repository will be updated with each change documented. 
